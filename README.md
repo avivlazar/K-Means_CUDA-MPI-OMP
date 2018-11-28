@@ -1,1 +1,0 @@
-# K-Means_CUDA-MPI-OMP
